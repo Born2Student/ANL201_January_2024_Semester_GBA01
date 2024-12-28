@@ -1,10 +1,24 @@
-# ANL201_January_2024_Semester_GBA01
+![image](https://github.com/user-attachments/assets/9e0b4adf-dcdc-408d-84ae-5e3aac2afd0f)# ANL201_January_2024_Semester_GBA01
 
 ## Question 1
 
 Choose an organisation for the group as the context for your answers in this assignment; address the following questions:
 
 You may refer to the corporate website of the organisation chosen.
+
+## Question 1(a) (16 marks)
+
+For the organisation of your choice, suggest two (2) strategic objectives for each of the four Balanced Scorecard perspectives (financial, customer, internal business process and learning & growth). 
+
+Identify the corresponding measure and target for each of the strategic objectives. 
+
+Please give the answer in tabular format as illustrated below. (Maximum word count: 200 words)
+
+### The organisation that our group has agreed on is DBS Bank
+
+![Screenshot 2024-12-28 at 11 09 54 AM](https://github.com/user-attachments/assets/c7d30f58-277c-4529-b240-509fe8729196)
+![Screenshot 2024-12-28 at 11 10 17 AM](https://github.com/user-attachments/assets/87023ea4-3207-466c-9222-5c4d2c6a4520)
+![Screenshot 2024-12-28 at 11 10 31 AM](https://github.com/user-attachments/assets/b871c815-7657-4f8b-8425-aa1940e87180)
 
 ## Question 1(b) (40 marks)
 
