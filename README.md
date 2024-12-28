@@ -37,12 +37,47 @@ The ROE that began with a value of 7.23% has increased sharply to 16.80% by 2023
 
 A line and bar chart are the ideal chart because it shows how ratings have remained steady with the lowest rating of 73.8 in 2021 and highest rating of 75.9 in 2023 and rankings have fluctuated with 5th place in 2022 and 1st place in 2018 and 2023 (DBS Group Holdings Ltd, n.d).
 
+## 4. Customer Engagement Score (CES) (Customer Measures 2)
 
+![image](https://github.com/user-attachments/assets/481c05f5-3297-44a0-8d13-e60f8c659b3a)
 
+An area chart is an ideal chart because it shows a rapid increase in the Consumer Banking CES from the lowest point of 3.71 in 2012 to the highest point of 4.31 in 2022. 
 
+The average line shows that the average is 4.08 which indicates that the majority of consumers are well engaged with a scale of 1 being the worst and 5 being the best.
 
+## 5. Adoption Rate Of New DBS iBanking Features (Internal Business Process 1)
 
+![image](https://github.com/user-attachments/assets/c960455d-865f-41ae-b6a2-5cf536eea1fe)
 
+A side-bar-side chart is an ideal chart because it enables a granular comparison of the declining adoption rate between 2019 and 2022 for 3 age groups. 
+
+The chart shows the age group 18 to 34 had the smallest reduction in adoption meanwhile the age group 60 and above had the highest reduction in adoption.
+
+## 6. Cost-to-Income Ratio (Internal Business Process 2)
+
+![image](https://github.com/user-attachments/assets/f7f61bab-c699-4aaf-a94a-88049349d199)
+
+A line chart is an ideal chart because it visualises the DBS cost-to-income ratio, hovering between 43% to 45%. 
+
+There was a spike in 2021, attributed to staff costs due to base salary increments. 
+
+A chart insight is that improvements were seen in 2022 and 2023, driven by high-interest rates leading to deposit base growth.
+
+## 7. Internal Mobility Rate (Learning and Growth Measures 1)
+
+![image](https://github.com/user-attachments/assets/497dacbf-0081-46d3-96db-14a5ad57e2b6)
+
+A line chart is an ideal chart because it visualises DBS's internal mobility rate decreasing from 7.7% in 2022 to 6.7% in 2023 due to a lower attrition rate (DBS Group Holdings Ltd, 2022). 
+
+However, DBS should target the internal mobility rate in 2024 to recover to 7.7% or more (DBS Group Holdings Ltd, 2022) as this would indicate the versatility and upskill employees in the company.
+
+## 8. Increase Diversity Across the Workforce (Internal Business Process 2)
+
+![image](https://github.com/user-attachments/assets/97ea9603-189b-4aa6-ad09-606778dd803e)
+
+The line chart is the ideal chart because women make up 50% of their workforce with 41% in senior management positions (DBS Group Holdings Ltd, 2023). 
+
+The representation of women in DBS has dropped from 52% in 2020 (DBS Group Holdings Ltd, 2022) to 50% in 2023 due to increased hiring of technology roles, which consists of lesser female talents (DBS Group Holdings Ltd, 2023).
 
 
 
