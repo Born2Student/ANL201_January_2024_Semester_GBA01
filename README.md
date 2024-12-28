@@ -31,6 +31,16 @@ The ROE performance has been volatile as there are no obvious upward or downward
 
 The ROE that began with a value of 7.23% has increased sharply to 16.80% by 2023 which represents an overall positive trend.
 
+## 3. CSI For Finance and Insurance Sector (Customer Measures 1)
+
+![image](https://github.com/user-attachments/assets/4f6463c4-91b4-48c6-b28f-501b720cb987)
+
+A line and bar chart are the ideal chart because it shows how ratings have remained steady with the lowest rating of 73.8 in 2021 and highest rating of 75.9 in 2023 and rankings have fluctuated with 5th place in 2022 and 1st place in 2018 and 2023 (DBS Group Holdings Ltd, n.d).
+
+
+
+
+
 
 
 
