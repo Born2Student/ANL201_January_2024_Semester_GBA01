@@ -21,4 +21,19 @@ A bar chart is the ideal chart because it visualises the year-on-year change of 
 
 An insight identified is the Total Revenue sharply grew by 16% between 2022 and 2021 (DBS, n.d.). DBS Bank experienced its largest total revenue in 2022 at 16.5 billion and lowest of 10.8 billion in 2015 (Statista, 2023).
 
+## 2. Return on Equity (ROE) (Financial Measures 2)
+
+![image](https://github.com/user-attachments/assets/972b27cc-fc3c-40a4-a675-d22619dd49d4)
+
+A line chart is the ideal chart because it shows how DBS ROE has fluctuated between 2009 and 2023 and the trend line indicates that there has been a linear increase. 
+
+The ROE performance has been volatile as there are no obvious upward or downward trends. 
+
+The ROE that began with a value of 7.23% has increased sharply to 16.80% by 2023 which represents an overall positive trend.
+
+
+
+
+
+
 
