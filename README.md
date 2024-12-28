@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdfea7f4-8530-4a55-9f07-56d2d0863d76)# ANL201_January_2024_Semester_GBA01
+# ANL201_January_2024_Semester_GBA01
 
 ## Question 1
 
