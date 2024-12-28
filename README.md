@@ -1,4 +1,6 @@
-# ANL201_January_2024_Semester_GBA01
+# ANL201 - Data Visualisation for Business
+
+# ANL201 Group-based Assignment (GBA01) January 2024 Semester
 
 ## Question 1
 
