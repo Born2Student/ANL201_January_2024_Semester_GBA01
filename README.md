@@ -17,5 +17,8 @@ You will need to create your own datasets using the information on corporate web
 ## 1. Total Revenue (Financial Measure 1)
 ![image](https://github.com/user-attachments/assets/7166405a-07f8-4e2a-a09d-3ddefabb0bc3)
 
+A bar chart is the ideal chart because it visualises the year-on-year change of the total revenue where it experienced slight increases from 2015 to 2019. 
+
+An insight identified is the Total Revenue sharply grew by 16% between 2022 and 2021 (DBS, n.d.). DBS Bank experienced its largest total revenue in 2022 at 16.5 billion and lowest of 10.8 billion in 2015 (Statista, 2023).
 
 
